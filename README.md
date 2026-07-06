@@ -9,7 +9,7 @@ I used `cin` to collect the user's age and height. I used `cout` to display the 
 The user must be at least 12 years old and at least 48 inches tall to ride.
 
 ## Video
-[Watch my video here](PASTE-YOUR-VIDEO-LINK-HERE)
+[Watch my video here](https://drive.google.com/file/d/1OwyiHo_I49KWOu9KrQXur_TB9-l-Qhov/view?usp=drivesdk)
 
 ## How to Run
 1. Compile `main.cpp`.
